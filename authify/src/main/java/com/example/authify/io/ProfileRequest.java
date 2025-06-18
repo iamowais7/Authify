@@ -20,3 +20,6 @@ public class ProfileRequest {
     @Size(min = 6,message="Password attleast 6 characters")
     private String password;
 }
+
+
+
